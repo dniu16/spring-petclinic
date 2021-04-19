@@ -1,5 +1,5 @@
 [web]
-10.0.2.255
+10.0.2.254
 
 [all:vars]
 ansible_connection=ssh  
